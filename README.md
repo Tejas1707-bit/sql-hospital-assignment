@@ -1,10 +1,10 @@
-# 🏥 Hospital SQL Assignment
+# 🏥 Hospital SQL Assignment:-
 
 This repository contains a structured SQL assignment that analyzes hospital data using advanced SQL queries. The goal is to derive useful insights from patient, doctor, and hospital-related information.
 
 ---
 
-## 📌 What This Assignment Is About
+## 📌 What This Assignment Is About:-
 
 The assignment simulates a real-world scenario where SQL is used to analyze hospital data. It covers:
 
@@ -15,7 +15,7 @@ The assignment simulates a real-world scenario where SQL is used to analyze hosp
 
 ---
 
-## 🧠 Key SQL Queries Used
+## 🧠 Key SQL Queries Used:-
 
 - `CREATE TABLE` – to define the structure of the hospital dataset
 - `SUM()` and `AVG()` – to calculate totals and averages
@@ -26,7 +26,7 @@ The assignment simulates a real-world scenario where SQL is used to analyze hosp
 
 ---
 
-## 📊 What Insights Were Found
+## 📊 What Insights Were Found:-
 
 - 🔹 **Total number of patients** across all hospitals  
 - 🔹 **Top 3 departments** based on patient volume  
@@ -39,14 +39,14 @@ The assignment simulates a real-world scenario where SQL is used to analyze hosp
 
 ---
 
-## 📎 Files Included
+## 📎 Files Included:-
 
 - `ASSIGNMENT_ANS.sql` – SQL script with all queries and table definitions
 - `SQL_Assignment_Answers.pdf` – Clean PDF report with all questions and answers
 
 ---
 
-## ✅ How to Use
+## ✅ How to Use:-
 
 1. Clone the repository or download the `.sql` and `.pdf` files
 2. Execute `ASSIGNMENT_ANS.sql` in a PostgreSQL-compatible database
@@ -54,7 +54,7 @@ The assignment simulates a real-world scenario where SQL is used to analyze hosp
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Author:-
 
 > Tejas Shinde  
 > B.Tech CSE – AI & Data Science  
