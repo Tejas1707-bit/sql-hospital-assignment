@@ -1,9 +1,7 @@
-# 🏥 Hospital SQL Assignment:-
+# 🏥 Hospital SQL Assignment:- 
 
 This repository contains a structured SQL assignment that analyzes hospital data using advanced SQL queries. The goal is to derive useful insights from patient, doctor, and hospital-related information.
-
 ---
-
 ## 📌 What This Assignment Is About:-
 
 The assignment simulates a real-world scenario where SQL is used to analyze hospital data. It covers:
