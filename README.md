@@ -5,12 +5,11 @@ This repository contains a structured SQL assignment that analyzes hospital data
 ## 📌 What This Assignment Is About:-
 
 The assignment simulates a real-world scenario where SQL is used to analyze hospital data. It covers:
-
 - Creating and modifying database tables
 - Aggregating patient and medical data
 - Calculating durations and averages
 - Grouping and filtering for business insights
-
+  
 ---
 
 ## 🧠 Key SQL Queries Used:-
@@ -53,7 +52,6 @@ The assignment simulates a real-world scenario where SQL is used to analyze hosp
 ---
 
 ## 🧑‍💻 Author:-
-
 > Tejas Shinde  
 > B.Tech CSE – AI & Data Science  
 > Passionate about data analytics and real-world problem solving  
